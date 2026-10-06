@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.TelemetryProcessorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-06T03:55:23.783Z" hostname="MacBook-Air-de-Valentina-6.local" time="0.003">
+  <properties/>
+  <testcase name="CP-08: Consulta de estado con comando STATUS" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-07: Error por tipo de sensor no soportado" classname="service.TelemetryProcessorTest" time="0.001"/>
+  <testcase name="CP-02: Alerta de temperatura alta (&gt; 40.0)" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-03: Alerta de congelamiento / temperatura bajo cero (&lt; 0.0)" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-05: Registro y alertas de batería" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-01: Registro de temperatura en rango normal" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-04: Registro y alertas de humedad" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <testcase name="CP-06: Manejo de formatos inválidos y errores de parseo" classname="service.TelemetryProcessorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
